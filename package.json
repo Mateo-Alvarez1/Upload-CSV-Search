@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "sonner": "^1.4.41"
   }
 }
